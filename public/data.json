@@ -1,0 +1,27 @@
+[
+{   
+    "name": "Raikou",
+    "img": "https://cdn.bulbagarden.net/upload/thumb/c/c1/243Raikou.png/250px-243Raikou.png",
+    "des": "Raikou, the Thunder Pokémon. It's said to have descended to earth on a bolt of lightning." 
+},
+{
+    "name": "Entei",
+    "img": "https://cdn.bulbagarden.net/upload/thumb/f/f9/244Entei.png/250px-244Entei.png",
+    "des": "A Pokémon that races across the land. It is said that one is born every time a new volcano appears."
+},
+{
+    "name": "Suicune",
+    "img": "https://cdn.bulbagarden.net/upload/thumb/d/da/245Suicune.png/250px-245Suicune.png",
+    "des": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water"
+},
+{
+    "name": "Lugia",
+    "img": "https://cdn.bulbagarden.net/upload/thumb/4/44/249Lugia.png/250px-249Lugia.png",
+    "des": "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong."
+},
+{
+    "name": "Ho-Oh",
+    "img": "https://cdn.bulbagarden.net/upload/thumb/6/67/250Ho-Oh.png/250px-250Ho-Oh.png",
+    "des": "Legends claim this Pokémon flies the world's skies continuously on its magnificent seven-colored wings."
+}
+]
